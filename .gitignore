@@ -1,0 +1,31 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs and coverage
+*.log
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# Docker
+docker-compose.override.yml
+*.env
+
+# OS files
+.DS_Store
