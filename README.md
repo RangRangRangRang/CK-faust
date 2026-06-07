@@ -1,3 +1,2 @@
 ﻿# Faust streaming project
-
-See docs/ for details.
+#top 2 demo
