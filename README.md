@@ -1,4 +1,4 @@
-# 🩴 Dép Store — Kafka Streaming Demo
+#  Dép Store — Kafka Streaming Demo
 
 Hệ thống xử lý đơn hàng thời gian thực sử dụng Apache Kafka.  
 Bài tập lớn môn Ứng dụng Phân tán.
