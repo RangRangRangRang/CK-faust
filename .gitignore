@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 venv/
 .venv/
 
@@ -7,3 +8,36 @@ __pycache__/
 .vscode/
 
 .env
+=======
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs and coverage
+*.log
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# Docker
+docker-compose.override.yml
+*.env
+
+# OS files
+.DS_Store
+>>>>>>> 0ed7d1d83e5cc2e696fea3c5d26a276e34f979bf

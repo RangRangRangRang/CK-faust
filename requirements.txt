@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿kafka-python
+=======
+faust-streaming==1.10.4
+>>>>>>> 0ed7d1d83e5cc2e696fea3c5d26a276e34f979bf
