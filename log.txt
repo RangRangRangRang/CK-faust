@@ -1,0 +1,20 @@
+[SYSTEM] aa started
+[SYSTEM] bb started
+[OK] aa | Order 5 | Customer-5 | $100
+[OK] aa | Order 2 | Customer-2 | $100
+[OK] bb | Order 4 | Customer-4 | $100
+[OK] bb | Order 6 | Customer-6 | $100
+[FAILED] aa | Order 7 | Customer-7 | $-100
+[OK] aa | Order 8 | Customer-8 | $100
+[OK] aa | Order 9 | Customer-9 | $100
+[OK] bb | Order 10 | Customer-10 | $100
+[OK] aa | Order 11 | Customer-11 | $100
+[OK] bb | Order 12 | Customer-12 | $100
+[OK] aa | Order 13 | Customer-13 | $100
+[FAILED] aa | Order 14 | Customer-14 | $-100
+[OK] aa | Order 15 | Customer-15 | $100
+[OK] aa | Order 16 | Customer-16 | $100
+[OK] bb | Order 17 | Customer-17 | $100
+[OK] aa | Order 18 | Customer-18 | $100
+[OK] aa | Order 19 | Customer-19 | $100
+[OK] bb | Order 20 | Customer-20 | $100
