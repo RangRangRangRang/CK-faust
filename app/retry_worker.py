@@ -10,6 +10,7 @@ def write_log(message):
 consumer = KafkaConsumer(
     RETRY_TOPIC,
     bootstrap_servers=KAFKA_SERVER,
+    group_id="retry-workers",      
     auto_offset_reset="earliest",
     value_deserializer=lambda m: json.loads(m.decode("utf-8"))
 )
